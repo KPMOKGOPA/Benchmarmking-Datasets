@@ -32,4 +32,4 @@ Please cite the following if you use these files in your work:
 
 ---
 
-For more details, see the full manuscript and the upcoming [T-SELEX](https://github.com/your-username/T-SELEX) tool for large-scale structural modeling and application workflows.
+For more details, see the full manuscript and the upcoming [T-SELEX]((https://github.com/CMCDD/T_SELEX) tool for large-scale structural modeling and application workflows.
