@@ -28,7 +28,7 @@ These files can be used as input for:
 
 Please cite the following if you use these files in your work:
 
-> Kabelo, P. et al. *Benchmarking Base Randomization Algorithm as Possible Tool for the Initial Step of Generating Virtual RNA Aptamer Libraries*. (2025, under review)
+> Mokgopa, K.P.; Oloniiju, S.D.; Lobb, K.A.; Tshiwawa, T. Benchmarking the Base Randomization Algorithm as a Possible Tool for the Initial Step of Generating a Virtual RNA Aptamers Library. BioTech 2025, 14, 72. https://doi.org/10.3390/biotech14030072 
 
 ---
 
